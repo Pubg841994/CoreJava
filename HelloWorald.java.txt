@@ -2,6 +2,7 @@ public class HelloWorald{
 
 public static void main(String[]args){
 System.out.println("firstMessage");
+System.out.println("secondMessage");
 
 }
 

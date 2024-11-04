@@ -4,6 +4,8 @@ public static void main(String[]args){
 System.out.println("firstMessage");
 System.out.println("secondMessage");
 System.out.println("first branch Message");
+System.out.println("frist branch commit");
+
 
 
 }

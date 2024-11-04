@@ -4,9 +4,13 @@ public static void main(String[]args){
 System.out.println("firstMessage");
 System.out.println("secondMessage");
 System.out.println("first branch Message");
+<<<<<<< HEAD
+System.out.println("first branch Message1");
+=======
 System.out.println("frist branch commit");
 System.out.println("second branch commit");
 
+>>>>>>> 2595e33a129982e08d975c5fd4354189a2eb0fd0
 
 
 }
